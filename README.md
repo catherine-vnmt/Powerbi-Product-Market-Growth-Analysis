@@ -50,7 +50,8 @@ This dashboard was built to answer that question by helping senior management:
 
 **Table 1: Orders Table** ***(Fact table)***
 - Core transaction table containing all sales records across 7 global markets, covering orders, revenue, profit, shipping, and customer information.
-- <details>
+
+<details>
 <summary>View Table Schema</summary>
 
 | Column Name | Data Type | Description |
@@ -82,7 +83,8 @@ This dashboard was built to answer that question by helping senior management:
 
 **Table 2: People** ***(Dimension table)***
 - Maps each regional market to its responsible sales representative. 
-- <details>
+
+<details>
 <summary>View Table Schema</summary>
 
 | Column Name | Data Type | Description |
@@ -96,7 +98,8 @@ This dashboard was built to answer that question by helping senior management:
 
 **Table 3: Returns** ***(Dimension Table)***
 - Records all returned orders, linked to the Orders table via Order ID to calculate return rate.
-- <details>
+
+<details>
 <summary>View Table Schema</summary>
 
 | Column Name | Data Type | Description |
@@ -110,7 +113,8 @@ This dashboard was built to answer that question by helping senior management:
 
 **Table 4: Dim Date** ***(Created Dimension Table)***
 - Custom date table created in Power BI to enable time intelligence calculations (YOY, YTD...). Built to cover the full date range of the Orders table (2011–2014).
-- <details>
+
+<details>
 <summary>View Table Schema</summary>
 
 | Column Name | Data Type | Description |

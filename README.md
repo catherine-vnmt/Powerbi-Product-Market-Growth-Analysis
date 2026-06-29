@@ -23,8 +23,11 @@ Global Superstore is a retail business operating across 7 markets worldwide. Des
 This dashboard was built to answer that question by helping senior management:
 
 ✔️ **See the full picture** — How is the business performing overall? Is growth healthy or just a vanity metric?
+
 ✔️ **Pick the right market** — Which markets are worth investing more into? Which ones should we scale back or exit?
+
 ✔️ **Back the right product** — Which products are actually driving profit, not just revenue?
+
 ✔️ **Act with confidence** — Make faster, better-informed strategic decisions without getting lost in raw data
 
 ### 👤 Who is this project for?  

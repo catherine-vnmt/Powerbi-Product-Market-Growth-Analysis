@@ -41,7 +41,7 @@ This dashboard was built to answer that question by helping senior management:
 
 ### 📌 Data Source  
 - Source: [Global Superstore dataset](https://www.kaggle.com/datasets/shekpaul/global-superstore) (Kaggle) 
-- Size: The largest table has 1.048.576 rows and 20 columns
+- Size: The largest table has 51.292 rows and 20 columns
 - Format: .csv 
 
 ### 📊 Data Structure & Relationships  

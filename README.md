@@ -1,7 +1,3 @@
-<img width="1002" height="1024" alt="89cf3a33-78e6-43c5-aa3d-97e350209c10" src="https://github.com/user-attachments/assets/2ca74846-1051-4c48-878d-dde4b6745ed5" />
-
----
-
 # 📊 [Power BI] Product & Market Strategic Growth Analysis at Global Retail Superstore 
 
 ---
@@ -17,7 +13,7 @@
 
 ## 📌 Background & Overview  
 
-### 🎯 Objective:
+### 🎯 Business questions:
 Global Superstore is a retail business operating across 7 markets worldwide. Despite growing revenue year over year, profit growth is slowing down — raising a critical question for senior management:
 > *"Are we growing in the right markets, with the right products?"*
 This dashboard was built to answer that question by helping senior management:

@@ -141,9 +141,6 @@ This dashboard was built to answer that question by helping senior management:
 ### Empathy map to map the problem with the user
 <img width="831" height="1024" alt="design thinking 2" src="https://github.com/user-attachments/assets/48c57d3a-6f7b-4253-8f2c-e16a5e46c727" />
 
-### Explore the dataset to see what we have to solve the problem
-<img width="596" height="1024" alt="desing thinking 3" src="https://github.com/user-attachments/assets/85a0a9db-0971-4fc0-bd8b-afb457df8db1" />
-
 2️⃣ **Define point of view**
 
 ### Define Northstar Metrics to determine the most critical values to measure

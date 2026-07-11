@@ -184,15 +184,19 @@ While Phones rank higher in revenue contribution, Copiers contribute more to tot
     - Copiers show accelerating profit growth: 39.4% (2013) → 43.9% (2014)
     - This combination of high margin + accelerating profit growth + declining return rate makes Copiers the most investable sub-category
       
-<img width="1441" height="809" alt="image" src="https://github.com/user-attachments/assets/e6c23d2d-7dd2-4266-9e8c-bd225d378929" />
+<img width="2703" height="1526" alt="3 2" src="https://github.com/user-attachments/assets/6de83a97-99a2-46a9-ae1a-ce4449c5d0a1" />
 
+<img width="2705" height="1529" alt="3 2a" src="https://github.com/user-attachments/assets/ddd2efb3-a1d0-4fa1-b0f2-1bac97b62bb7" />
 
 #### 3️⃣ Market Performance Preview  
 📌 ***Analysis 3: Strategic Market: EU*** 
 - At the market level, APAC and EU are the top two contributors to both revenue and profit, with comparable profit margins — EU at 27.67% and APAC at 27%. While APAC leads in total sales volume, EU demonstrates a consistently stronger profit growth trajectory:
     - EU %Profit YOY: 41.81% (2013) → 46.59% (2014)
     - APAC %Profit YOY: 19.85% (2013) → 31.68% (2014)
-<img width="1438" height="807" alt="image" src="https://github.com/user-attachments/assets/6218e3e8-a7cf-480d-842d-cc1c4c2119ab" />
+
+<img width="2705" height="1536" alt="3 3" src="https://github.com/user-attachments/assets/2533f82b-d316-4df6-b51e-50a5f136e93b" />
+
+<img width="2710" height="1541" alt="3 3a" src="https://github.com/user-attachments/assets/387c9f12-f452-4eba-92a4-45cda30b97a5" />
 
 ---
 

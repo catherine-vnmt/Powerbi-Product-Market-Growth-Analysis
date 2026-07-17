@@ -29,6 +29,7 @@ This dashboard was built to answer that question by helping senior management:
 ### 👤 Who is this project for?  
 
 ✔️ Senior Management (Head of Region / C-level executives)  
+
 ✔️ Head of Region / Global Business Director 
 
 ---
@@ -136,26 +137,15 @@ This dashboard was built to answer that question by helping senior management:
 1️⃣ **Empathize**
  
 ### 5W1H Stakeholder Analysis to understand the problem
-<img width="1191" height="880" alt="design thinking 1" src="https://github.com/user-attachments/assets/e44729f7-de71-4ffd-bc37-f9aa1861b05a" />
+<img width="1996" height="1143" alt="Design thinking a" src="https://github.com/user-attachments/assets/a7773969-0bec-4b22-bf8d-30b16e7ee905" />
 
 ### Empathy map to map the problem with the user
-<img width="831" height="1024" alt="design thinking 2" src="https://github.com/user-attachments/assets/48c57d3a-6f7b-4253-8f2c-e16a5e46c727" />
+<img width="1994" height="834" alt="Design thinking b" src="https://github.com/user-attachments/assets/7b7dc839-7a3f-4807-9b9b-45e4c6180896" />
 
 2️⃣ **Define point of view**
-
-### Define Northstar Metrics to determine the most critical values to measure
-<img width="1002" height="1024" alt="design thinking 4" src="https://github.com/user-attachments/assets/4b919833-92b6-443b-9a8a-fd7520562976" />
-
-### Define Point of View to identify the key viewpoints the stakeholder needs to observe
-<img width="1024" height="920" alt="desing thinking 5" src="https://github.com/user-attachments/assets/13519354-7eff-45e6-b9d9-5bafd7a99310" />
-
-### Develop Growth Formula to break down each Northstar metric into measurable components in each viewpoint
-<img width="988" height="1024" alt="design thinking 6" src="https://github.com/user-attachments/assets/32d64c29-54d9-498e-9b7a-e9ff4568dfb6" />
-
+<img width="1998" height="659" alt="Design thinking c" src="https://github.com/user-attachments/assets/1de4e4e0-6b73-4b84-bb6d-ce40711796be" />
 
 3️⃣ **Ideate**
-<img width="891" height="1024" alt="desing thinking 7" src="https://github.com/user-attachments/assets/8e3138e6-b9e7-47d6-a509-5cd190cf6910" />
-
 
 4️⃣ **Prototype and review**  
 
@@ -211,7 +201,9 @@ Based on the combined product and market analysis, the clearest near-term growth
 ⚠️ Important risk flag: The return rate for Copiers in the EU market reached 11.59% in 2014 — notably high and must be investigated before scaling investment. Whether this is driven by product quality issues (supplier-side) or customer expectation mismatches will determine the corrective action required.
 
 ✔️ **Expand the Copier product range:** Introduce newer Copier models to attract new buyers and give existing customers a reason to upgrade — driving both new customer acquisition and upsell revenue.  
+
 ✔️ **Proactive outreach to existing customers:** Actively contact long-term Copier buyers to offer maintenance services for their existing machines, while introducing new product lines for upgrade consideration. This converts one-time buyers into repeat customers and builds long-term relationships. 
+
 ✔️ **Cross-sell related Office Supplies:** Offer relevant Office Supplies (paper, ink cartridges, accessories) as bundled promotions to Copier buyers — increasing average order value with minimal additional sales effort.
 
 ✔️ **Bundle maintenance and service packages:** Offer optional service and warranty packages alongside Copier sales to maximize revenue per transaction and create a recurring revenue stream beyond the initial purchase.
